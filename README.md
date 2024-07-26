@@ -55,9 +55,9 @@ With further development, the app will incorporate advanced functionalities and 
 🎯 How You Can Help
 We believe in the power of community to drive success! Here’s how you can contribute:
 
-Check Out Our Demo 🔍
+Check Out Our Demo screens🔍
 
-Explore the provided files to see the initial design and functionality.
+Explore the provided files to see the initial design.
 Contribute Your Ideas 💡
 
 Share your thoughts and suggestions to help us refine and expand the app.
@@ -71,10 +71,10 @@ Help us reach more people by sharing our project with your network.
 We are excited about the journey ahead and the impact that AgriTech Smart Profit can make in transforming agriculture. With continued innovation and community support, we are confident that this app will become a game-changer for farmers and agricultural professionals around the world. 🌟
 
 📧 Get in Touch
-Have questions or want to get involved? Reach out to us at your-email@example.com or join our community forum to discuss and collaborate.
+Have questions or want to get involved? Reach out to us at ramyachandrasekher02@gmail.com or join our community forum to discuss and collaborate.
 
 🎉 Let's Make a Difference Together!
 Thank you for your interest and support. Together, we can make agricultural sustainability and profitability a reality. Let’s grow smarter with AgriTech Smart Profit! 🌱🚀
 
-Note: The provided demo files showcase the initial design and functionality. The full version of the app will include more features, improved functionality, and advanced integrations.
+Note: The provided demo files showcase the initial design. The full version of the app will include more features, improved functionality, and advanced integrations.
 
